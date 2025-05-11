@@ -1,1 +1,1 @@
-# Arch-Boki kitty
+# Arch-Boki kitty config 05.2025
